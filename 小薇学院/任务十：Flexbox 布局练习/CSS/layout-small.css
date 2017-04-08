@@ -1,0 +1,18 @@
+.flex-container
+{
+	flex-wrap: wrap;
+	align-items: 
+}
+.second,.first
+{
+	order: 1;
+}
+.forth
+{
+	order: 0;
+}
+.third
+{
+	order: 2;
+	margin-top: 20px;
+}

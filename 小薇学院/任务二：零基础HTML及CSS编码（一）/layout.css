@@ -1,0 +1,67 @@
+body
+{
+	background-color: #000000;
+}
+div
+{
+	background-color: #ffffff;
+	margin-top: 1em;
+}
+h1
+{
+	color: #886235;
+	font-family: "_GB2312 FangSong_GB2312",sans-serif;
+}
+a:link
+{
+	color: #FF0000;
+}
+a:visited 
+{
+	color: #00FF00;
+}
+a:hover 
+{
+	color: #FF00FF;
+}
+a:active 
+{
+	color: #0000FF;
+}
+table
+{
+	border: solid 5px #123556;
+}
+tr
+{
+	border: solid 5px #123556;
+}
+
+td
+{
+	border: solid 5px #123556;
+}
+
+#textstyle h1
+{
+	font-family:"Arial","KaiTi",sans-serif;
+	font-size: 50PX;
+	color: #fff233;
+}
+#navstyle h1
+{
+	font-family: "FangSong",sans-serif;
+	font-size: 30PX;
+}
+#navstyle nav ul
+{
+	list-style: none;
+}
+#navstyle nav ul li
+{
+	display: block;
+	width: 500px;
+	background-color:#000000;
+	text-align: center;
+	margin-top: 1em;
+}

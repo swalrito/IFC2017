@@ -1,0 +1,145 @@
+header .header-textlogo,
+{
+	font-family:"黑体";
+	font-size: 21px;
+}
+header .header-login a
+{
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+main .main-banner .bannerRed a
+{
+	font-family: "微软雅黑";
+	font-size: 30px;
+	line-height: 60px;
+}
+main .main-banner .bannerText .Time
+{
+	font-family: "微软雅黑";
+	font-size: 60px;
+}
+main .main-banner .bannerText .newch
+{
+	font-family: "微软雅黑";
+	font-size: 21px;
+}
+main .main-about .main-about-text
+{
+	font-family: "黑体";
+	font-size: 54px;
+}
+main .main-city .city-text h3
+{
+	font-family: "微软雅黑";
+	font-size: 21px;
+}
+main .main-city .city-text p
+{
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+main .main-city .city-select ul li input
+{
+	font-family: "微软雅黑";
+	font-size: 14px;
+	letter-spacing: 26px;
+	text-indent:26px;
+	text-align: center;
+}
+main .main-exam .main-exam-item,.main-exam-spitem
+{
+	font-family:"微软雅黑";
+
+}
+main .main-exam .main-exam-item h6
+{
+	font-size: 16px;
+	margin-top: 12px;
+}
+main .main-exam .main-exam-item p
+{
+	font-size: 12px;
+	margin-top: 12px;
+}
+main .main-exam .main-exam-spitem h6
+{
+	font-size: 22px;
+	letter-spacing: 40px;
+	margin-bottom: 10px;
+}
+main .main-exam .main-exam-spitem p
+{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+main .main-more .new-world .image-gallery p
+{
+	font-family: "微软雅黑";
+	font-size: 22px;
+}
+main .main-more .new-world .image-gallery h1
+{
+	font-family: "微软雅黑";
+	font-size: 50px;
+}
+main .main-more .more-info .info-text
+{
+	font-family: "宋体";
+
+}
+main .main-more .more-info .info-text h2
+{
+	font-size: 20px;
+}
+main .main-more .more-info .info-text p
+{
+	font-size: 12px;
+	line-height: 26px;
+}
+main .main-more .more-info .more
+{
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+main .main-more .more-intro .intro1,main .main-more .more-intro .intro2 p
+{
+	font-family: "黑体";
+	font-size: 21px;
+	line-height: 30px;
+}
+main .jion .becom h1
+{
+	font-family: "黑体";
+	font-size: 22px;
+}
+main .jion .becom p
+{
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+main .jion .agreement h2
+{
+	font-family: "黑体";
+	font-size: 14px;
+}
+main .jion .agreement p
+{
+	font-family: "宋体";
+	font-size: 12px;
+}
+footer .contact .con-text h1
+{
+	font-family: "黑体";
+	font-size: 22px;
+}
+footer .contact .con-text p
+{
+	font-family: "宋体";
+	font-size: 12px;
+}
+footer .page-footer .footer-logo,footer .page-footer .footer-back
+{
+	font-family: "宋体";
+	font-size: 12px;
+}

@@ -1,0 +1,120 @@
+header .header-login a
+{
+	color: #ea6f6e;
+}
+header .header-group .group-item a
+{
+	color:#000000;
+}
+main .main-banner .bannerText .Time
+{
+	color: #ffffff;
+}
+main .main-banner .bannerText .newch
+{
+	color: #ffffff;
+}
+main .main-banner .bannerRed a
+{
+	color: #ffffff;
+}
+main .main-about .main-about-text
+{
+	color: #a1a1a1;
+}
+main .main-city .city-text h3,main .main-city .city-text p,main .main-city .city-text hr,main .main-city .city-select ul li input
+{
+	color: #ffffff;
+}
+main .main-city .city-select ul li select option
+{
+	background-color: #e3e2e4;
+}
+main .main-city .city-select ul li select option:checked
+{
+	background-color:#be4e48;
+}
+main .main-exam
+{
+	background-color: #f7f7f7;
+}
+main .main-exam ul li p
+{
+	color: #bcbdbd;
+}
+main .main-exam .main-exam-spitem h6
+{
+	color: #323333;
+}
+main .main-more .new-world .image-gallery p,main .main-more .new-world .image-gallery h1
+{
+	color: #ffffff;
+}
+main .main-more .more-info .info-text h2 span
+{
+	color: #e7504d;
+}
+main .main-more .more-info .more
+{
+	background-color: #ffffff;
+}
+main .main-more .more-intro .intro1
+{
+	background-color: #e7504d;
+}
+main .main-more .more-intro .intro2
+{
+	background-color: #ffffff;
+}
+main .main-more .more-intro .intro1 p
+{
+	color: #ffffff;
+}
+main .main-more .more-intro .intro2 p
+{
+	color: #000000;
+}
+main .main-more .more-intro .intro1 .intro-text input
+{
+	background-color: #e74f4d;
+	color: #ffffff;
+	border: solid 1px #ffffff;
+}
+main .main-more .more-intro .intro2 .intro-text input
+{
+	background-color: #ffffff;
+	color: #e74f4d;
+	border: solid 1px #e74f4d;
+}
+main .jion .becom h1
+{
+	color: #323333;
+}
+main .jion .becom p
+{
+	color:#b0b0b0;
+}
+main .jion .agreement h2
+{
+	color: #807c7c;
+}
+main .jion .agreement p
+{
+	color: #d4d3d3;
+}
+main .jion .form input
+{
+	background-color: #ededee;
+}
+footer .contact .con-text h1,footer .contact .con-text p
+{
+	color: #ffffff;
+}
+footer .page-footer
+{
+	background-color: #2f2f38;
+}
+footer .page-footer .footer-logo,footer .page-footer .footer-back
+{
+	color: #ffffff;
+}

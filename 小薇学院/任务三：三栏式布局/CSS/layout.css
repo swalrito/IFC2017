@@ -1,0 +1,56 @@
+body
+{
+	min-width: 1000px;
+}
+img
+{
+	border: solid 1px #999;
+}
+div
+{
+	padding: 20px;
+	border: solid 1px #999;
+}
+#main
+{
+	margin: 20px;
+	background-color: #eee;
+	min-height: 600px;
+}
+#name,#introduction,#player
+{
+	background-color: #ffffff;
+}
+#name
+{
+	float: left;
+	width: 160px;
+}
+#name img
+{
+	float: left;
+}
+#name p
+{
+	float: left;
+}
+#player
+{
+	position: absolute;
+	top: 40px;
+	right: 40px;
+	width: 80px;
+}
+.players
+{
+	margin-top: 20px;
+}
+#firstplayer
+{
+	margin-top: 0px;
+}
+#introduction
+{
+	margin: 0px 140px 0px 220px;
+	height: 100%;
+}

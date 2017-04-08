@@ -1,0 +1,149 @@
+#top p
+{
+	font-family:sans-serif, "HeiTi";
+	font-size: 12px;
+}
+#firstp-A,#firstp-T
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 24px;
+	line-height: 40px;
+}
+#secondp
+{
+	font-family: sans-serif,"楷体";
+	font-size: 12px;
+	line-height: 10px;
+}
+#thirdp
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 116px;
+	font-style: oblique;
+}
+#forthp
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 55px;
+}
+#fifthp
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 21px;
+}
+#sixp
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 12px;
+}
+#what p,#when p,#how p
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 16px;
+	font-weight:bold;
+	text-decoration: underline;
+}
+#what article
+{
+	font-family: sans-serif,"宋体";
+	font-size: 12px;
+	margin-top:16px;
+	line-height: 16px;
+}
+#when article,#how article,#What p
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 12px;
+	margin-top: 16px;
+	line-height: 16px;
+	opacity: 0.7;
+}
+#What p span
+{
+	font-style: oblique;
+}
+#title1 span
+{
+	font-family: sans-serif,"黑体";
+	font-weight:500;
+	font-style: oblique;
+}
+#title1
+{
+	font-family: sans-serif,"黑体";
+	font-weight: 500;
+}
+#title2
+{
+	font-family: sans-serif,"黑体";
+	font-weight: 500;
+}
+#firstpragraph:first-letter
+{
+	display: block;
+	font-family: sans-serif,"微软雅黑";
+}
+.pragraph,#firstpragraph
+{
+	font-family: sans-serif,"宋体";
+}
+#imge span
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 26px;
+}
+#imge p
+{
+	font-family: sans-serif,"微软雅黑";
+	font-size: 12px;
+	font-style: oblique;
+	word-spacing:17px;
+}
+#number
+{
+	font-size: 110px;
+	font-family: sans-serif,"微软雅黑";
+}
+#hello
+{
+	font-family: sans-serif,"黑体";
+	font-size: 12px;
+	line-height: 6px;
+	font-style: normal;
+}
+#ONE
+{
+	font-family: sans-serif,"黑体";
+	font-size: 21px;
+	line-height: 24px;
+	font-style: oblique;
+}
+#last ul li
+{
+	font-family: sans-serif,"宋体";
+	font-size: 16px;
+}
+#last ul li span
+{
+	font-family: sans-serif,"宋体";
+	font-size: 12px;
+	font-style: oblique;
+}
+#hw
+{
+	font-family: sans-serif,"黑体";
+	font-size: 14px;
+	margin-bottom: 16px;
+	font-style: oblique;
+	text-indent: 3em;
+}
+#quotes1,#quotes2
+{
+	font-family: sans-serif,"黑体";
+	font-size: 72px;
+}
+footer p
+{
+	font-family: sans-serif,"黑体";
+	font-size: 12px;
+}

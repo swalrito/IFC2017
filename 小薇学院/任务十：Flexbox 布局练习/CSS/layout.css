@@ -1,0 +1,30 @@
+.flex-container
+{
+	display: flex;
+	padding: 20px;
+	align-items: center;
+	justify-content: space-between;
+}
+.first,.second,.third
+{
+	border: solid 1px #ff0003;
+	width: 150px;
+}
+.forth
+{
+	border: 1px #0000FF solid;
+	width: 150px;
+	height: 200px;
+}
+.first
+{
+	height: 120px;
+}
+.second
+{
+	height: 100px;
+}
+.third
+{
+	height: 40px;
+}

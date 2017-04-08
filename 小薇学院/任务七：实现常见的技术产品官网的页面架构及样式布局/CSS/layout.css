@@ -1,0 +1,462 @@
+.viewport
+{
+	position: absolute;
+	left: 50%;
+	margin-left: -640px;
+}
+.viewport,.viewport header,.viewport main,.viewport footer
+{
+	width: 1280px;
+}
+header
+{
+	height: 57px;
+	background-color: #fff;
+}
+header .header-logo
+{
+	float: left;
+	margin-top: 13px;
+	margin-left: 59px;
+	width: 31px;
+	height: 31px;
+	background-image: url(../images/header/header-logo.jpg);
+}
+header .header-textlogo
+{
+	float: left;
+	margin-left: 11px;
+	margin-top: 20px;
+}
+header .header-group
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 519px;
+}
+header .header-group .group-item a:hover
+{
+	color: #e74f4d;
+	border-bottom:solid 4px #e74f4d;
+	padding-bottom: 10px;
+}
+header .header-group .group-item
+{
+	display: inline;
+	margin-right: 45px;
+}
+header .header-login
+{
+	float: left;
+	margin-top:20px;
+}
+header .header-login img
+{
+	margin-right: 5px;
+}
+header .header-login img,header .header-login a
+{
+	display: inline;
+}
+main .main-banner
+{
+	height: 692px;
+	overflow: hidden;
+	position: relative;
+}
+main .main-banner .bannerCover
+{
+	position: absolute;
+	margin-top:-692px;
+	opacity: 0.6;
+}
+main .main-banner .bannerRed
+{
+	position: absolute;
+	margin:-425px 126px;
+}
+main .main-banner .bannerRed a
+{
+	background-image: url(../images/main/main-bannerRed_04.gif);
+	width: 330px;
+	height: 64px;
+	display: block;
+	text-align: center;
+}
+main .main-banner .bannerText
+{
+	width: 458px;
+	height: 133px;
+	position: absolute;
+	margin: -624px auto 0px 118px;
+}
+main .main-banner .bannerText .newch
+{
+	margin-top: 32px;
+	line-height:34px; 
+}
+main .main-intro
+{
+	height: 252px;
+	background-color: #ffffff;
+
+}
+main .main-intro .intro
+{
+	float: left;
+	width: 154px;
+	margin-right: 140px;
+}
+main .main-intro ul
+{
+	padding-top: 46px;
+	margin-left: 90px;
+}
+main .main-intro ul li
+{
+	text-align: center;
+}
+main .main-intro ul li img
+{
+	margin-left:58px;
+	margin-bottom: 46px;
+}
+main .main-intro .main-intro-line
+{
+	float: left;
+	margin-left: 290px;
+	margin-top:-50px;
+}
+main .main-about
+{
+	width: 1280px;
+	height: 360px;
+	background-color: #edecec;
+
+}
+main .main-about .main-about-logo
+{
+	padding-top: 90px;
+	margin-left: 596px;
+}
+main .main-about .main-about-text
+{
+	margin-top: 50px;
+	text-align: center;
+}
+main .main-city
+{
+	height: 340px;
+	background-image: url(../images/main/main-city-map.jpg);
+	position: relative;
+}
+main .main-city .city-cover
+{
+	opacity: 0.5;
+}
+main .main-city .city-text
+{
+	position: absolute;
+	margin-top: -290px;
+	margin-left: 430px;
+	text-align: center;
+}
+main .main-city .city-text hr
+{
+	width: 32px;
+	border:solid 1px;
+}
+main .main-city .city-text h3,main .main-city .city-text hr
+{
+	margin-bottom: 10px;
+}
+main .main-city .city-select ul
+{
+	position: absolute;
+	margin-left: 126px;
+	margin-top: -134px;
+}
+main .main-city .city-select ul li
+{
+	float: left;
+	margin-right: 28px;
+
+}
+main .main-city .city-select ul li select,main .main-city .city-select ul li input
+{
+	width: 236px;
+	height: 36px
+}
+main .main-city .city-select ul li input
+{
+	background-color: #be4f48;
+	border: solid 1px #be4f48; 
+}
+main .main-exam
+{
+	height: 606px
+}
+main .main-exam ul
+{
+	padding-top: 100px;
+	margin-left: 148px;
+}
+main .main-exam ul li
+{
+	float: left;
+	margin-right: 38px;
+	text-align: center;
+
+}
+main .main-more .new-world .image-gallery
+{
+	float: left;
+}
+main .main-more .new-world .image-gallery h1
+{
+	margin-top: -384px;
+	margin-left: 352px;
+	margin-bottom: 170px;
+}
+main .main-more .new-world .image-gallery p
+{
+	margin-left: 346px;
+	margin-bottom:22px;
+}
+main .main-more .more-info
+{
+	float: left;
+	width: 428px;
+	height: 565px;
+	background-color: #ffffff;
+}
+main .main-more .more-info .info-text
+{
+	width: 296px;
+	height: 170px;
+	margin-top: 166px;
+	margin-left: 70px;
+
+}
+main .main-more .more-info .info-text h2
+{
+	margin-bottom: 20px;
+	text-align: center;
+}
+main .main-more .more-info .info-text p
+{
+	opacity: 0.5;
+	text-align: left;
+}
+main .main-more .more-info .more
+{
+	width: 106px;
+	height: 34px;
+	margin-top: 36px;
+	margin-left: 164px;
+	border: solid 1px #e5676a;
+	text-align: center;
+	color: #e5676a;
+}
+main .main-more .more-info  ul
+{
+	margin-top: 26px;
+	margin-left: 186px;
+}
+main .main-more .more-info ul li a
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+	border-radius: 8px;
+	border: solid 1px #919192;
+	background-color: #ffffff;
+	margin-right: 14px;
+}
+main .main-more .more-info ul  li a:link
+{
+	background-color: #ffffff;
+}
+main .main-more .more-info ul  li a:visted
+{
+	background-color: #919192;
+}
+main .main-more .more-info ul  li a:hover
+{
+	background-color: #919192;
+}
+main .main-more .more-info ul  li a:active
+{
+	background-color: #919192;
+}
+main .main-more .more-intro .intro1,main .main-more .more-intro .intro2,main .main-more .more-intro .intro3
+{
+	width: 426px;
+	height: 520px;
+	float: left;
+}
+main .main-more .more-intro .intro3 .introCover
+{
+	margin-top: -520px;
+	opacity: 0.5;
+}
+main .main-more .more-intro .intro1 .intro-text
+{
+	margin-top: 174px;
+	text-align: center;
+}
+main .main-more .more-intro .intro2 .intro-text
+{
+	margin-top: 174px;
+	text-align: center;
+}
+main .main-more .more-intro .intro1 .intro-text hr
+{
+	width: 32px;
+	border: solid 2px #ffffff;
+	margin-top: 20px;
+	margin-bottom: 26px;
+}
+main .main-more .more-intro .intro2 .intro-text hr
+{
+	width: 32px;
+	border: solid 2px #919192;
+	margin-top: 20px;
+	margin-bottom: 26px;
+}
+main .main-more .more-intro .intro1 .intro-text input,main .main-more .more-intro .intro2 .intro-text input
+{
+	width: 170px;
+	height: 44px;
+	text-align: center;
+}
+main .jion .becom
+{
+	margin-top: 118px;
+	margin-left: 430px;
+	text-align: center;
+	width: 424px;
+}
+main .jion .becom h1
+{
+	margin-bottom:28px;
+}
+main .jion .becom p
+{
+	margin-bottom: 10px;
+}
+main .jion .agreement
+{
+	float: left;
+	margin-left: 140px;
+	margin-top: 96px;
+	width: 294px;
+}
+main .jion .agreement h2
+{
+	margin-bottom: 28px;
+}
+main .jion .agreement p
+{
+	margin-bottom: 10px;
+}
+main .jion .agreement .interest h2,main .jion .agreement .clause h2
+{
+	margin-top: 36px;
+	margin-bottom: 28px;
+}
+main .jion .form
+{
+	float: left;
+	margin-top: 96px;
+	margin-left: 72px;
+	margin-bottom: 168px;
+	width: 640px;
+}
+main .jion .form .pinfo
+{
+	width: 292px;
+	height: 40px;
+	margin-bottom: 12px;
+	margin-right: 20px;
+}
+main .jion .form .description
+{
+	width: 614px;
+	height: 140px;
+	margin-bottom: 12px;
+}
+main .jion .form .refer
+{
+	width: 614px;
+	height: 40px;
+	text-align: center;
+}
+main .jion .form input
+{
+	border:solid 0px;
+}
+footer .contact
+{
+	height: 362px;
+	background-color: #32353e;
+}
+footer .contact .con-text
+{
+	width: 470px;
+	padding-top: 92px;
+	margin-left: 404px;
+	text-align: center;
+}
+footer .contact .con-text h1
+{
+	margin-bottom: 14px;
+}
+footer .contact .con-text p
+{
+	margin-bottom: 6px;
+}
+footer .contact .buttom
+{
+	margin: 32px 380px;
+}
+footer .contact .buttom .email
+{
+	float: left;
+	width: 432px;
+	height: 42px;
+	border: solid 0px;
+}
+footer .contact .buttom .buttom-refer
+{
+	float: left;
+	width: 80px;
+	height: 42px;
+	border: solid 0px;
+}
+footer .contact .con-software
+{
+	margin-top: 36px;
+	margin-left: 550px
+}
+footer .contact .con-software img
+{
+	float: left;
+	margin-right: 28px;
+}
+footer .page-footer
+{
+	height: 58px;
+}
+footer .page-footer .footer-logo
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 98px;
+}
+footer .page-footer .footer-back
+{
+	float: right;
+	margin-top: 30px;
+	margin-right: 98px;
+}
