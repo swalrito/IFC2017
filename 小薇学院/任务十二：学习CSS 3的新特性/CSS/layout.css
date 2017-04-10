@@ -1,0 +1,99 @@
+.table-style table tr th
+{
+	color: #ffffff;
+	background-color: #000;
+}
+tr:nth-child(odd) 
+{
+	background-color: 	#808080;
+}
+tr:nth-child(2),tr:nth-child(3),tr:nth-child(4)
+{
+	color: #ff0000;
+}
+.input-style input
+{
+	transition: width ease 2s;
+	width: 150px;
+}
+.input-style input:focus
+{
+	width: 300px;
+	border-color:  #F0FFFF;
+	box-shadow: 0 0 6px;
+}
+.banner-style
+{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	overflow: hidden;
+}
+.banner-style ul
+{
+	list-style: none;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	transition: all 1s ease;
+}
+.banner-style ul li
+{
+	width: 300px;
+	height: 200px;
+	position: absolute;
+	display: inline;
+}
+.banner-style ul li:nth-child(1)
+{
+	background-color: #F0FFFF;
+	left: 0px;
+}
+.banner-style ul li:nth-child(2)
+{
+	background-color: #ff0000;
+	left: 300px;
+}
+
+.banner-style ul li:nth-child(3)
+{
+	background-color: #000000;
+	left: 600px;
+}
+.banner-style a
+{
+	text-decoration: none;
+	color: #000000;
+	background-color: #fff;
+	width: 12px;
+	height: 12px;
+	padding: 8px;
+	opacity: 0.8;
+	position: absolute;
+	bottom: 14px;
+	text-align: center;
+}
+a:nth-of-type(3)
+{
+	right: 0px;
+}
+a:nth-of-type(2)
+{
+	right: 30px;
+}
+a:nth-of-type(1)
+{
+	right:60px;
+}
+#a:target~ul
+{
+	left: 0px;
+}
+#b:target~ul
+{
+	left: -300px;
+}
+#c:target~ul
+{
+	left: -600px;
+}
