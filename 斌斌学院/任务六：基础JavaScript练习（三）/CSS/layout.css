@@ -1,0 +1,25 @@
+
+ul
+{
+	list-style: none;
+}
+ul li
+{
+	display: inline-block;
+	padding: 10px;
+	background-color: #ff0000;
+	margin-left: 6px;
+	color: #ffffff;
+	vertical-align: bottom;
+}
+button
+{
+	background-color: #fff;
+	border: 1px solid #000000;
+}
+
+span
+{
+	color: #000000;
+	font-size: 20px;
+}
