@@ -1,0 +1,25 @@
+.box
+{
+	 display: flex;
+            justify-content: space-around;
+            align-items: center;
+            border: 1px solid #000;
+            width: 40%;
+            height: 80%;
+}
+.box-one
+{
+	position: absolute;
+	height: 300px;
+	width: 900px;
+	margin-left: 50%;
+	left: -450px;
+}
+.btn
+{
+	background-color: #f0ffff;
+	border: solid 1px;
+	width: 100px;
+	height: 20px;
+	margin-left: 20px;
+}
