@@ -1,0 +1,34 @@
+form
+{
+	width: 350px;
+
+	position: absolute;
+	left: 50%;
+	margin-left: -175px;
+}
+.form p:nth-child(1)
+{
+	text-align: right;
+	width: 100px;
+}
+p
+{
+	display: inline-block;
+	font-family: "黑体";
+	font-size: 16px;
+}
+
+button
+{
+	float: right;
+}
+
+.value
+{
+	font-size: 8px;
+	color: #ADA7A7;
+	margin-left: 104px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
